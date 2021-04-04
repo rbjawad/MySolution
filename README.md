@@ -1,3 +1,3 @@
 # MySolution
-some information to read
+some information to read.
 should have more info
